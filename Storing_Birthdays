@@ -1,0 +1,22 @@
+
+friend1 = "MR B"
+friend2 = "MR c"
+friend3 = "MR d"
+friend4 = "MR e"
+friend5 = "MR f"
+
+friend1DOB = input("What day is friend1 B-Day?")
+friend2DOB = input("What day is friend2 B-Day?")
+friend3DOB = input("What day is friend3 B-Day?")
+friend4DOB = input("What day is friend4 B-Day?")
+friend5DOB = input("What day is friend5 B-Day?")
+
+print(friend1 + " DOB :"   + friend1DOB)
+print(friend2 + " DOB :"   + friend2DOB)
+print(friend3 + " DOB :"   + friend3DOB)
+print(friend4 + " DOB :"   + friend4DOB)
+print(friend5 + " DOB :"   + friend5DOB)
+
+
+
+
